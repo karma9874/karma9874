@@ -1,12 +1,16 @@
 ## **Hi 👋, I'm Niraj!**  
 <p> Wannabe haxor... </p>
-
 <img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
 
 - :grey_question: Checking how this thing README.md works.
 - :exclamation: I write codes.
 - :heart_eyes: I love playing CTFs, currently playing under team @darkArmy-ctf
 - :zzz: Sometimes I write CTFs [writeups](https://github.com/karma9874/CTF-Writeups)
+- :smiley: Interested in Cyber Security, Android developement and Machine Learning 
+- :+1: Looking to collaborate on any weird ideas xD
+- :tea: Chai is <3
+- :ok: Index starts with 1? xD 
+
 <br><br><br><br><br>
 
 **Some of my boring stuffs**
