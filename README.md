@@ -3,12 +3,12 @@
 
 <img align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
 
-- :question: Checking how this thing README.md works.
+- :grey_question: Checking how this thing README.md works.
 - :exclamation: I write codes.
-- :sparkling_heart: I love playing CTFs, currently playing under team @darkArmy-ctf
-- :sparkling_heart: Sometimes I write CTFs [writeups](https://github.com/karma9874/CTF-Writeups)
-
-** Some of my boring stuffs **
+- :heart_eyes: I love playing CTFs, currently playing under team @darkArmy-ctf
+- :zzz: Sometimes I write CTFs [writeups](https://github.com/karma9874/CTF-Writeups)
+<br><br><br>
+**Some of my boring stuffs**
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**AndroRAT**](https://github.com/karma9874/AndroRAT) | [![GitHub issues](https://img.shields.io/github/issues/karma9874/AndroRAT?color=green&logo=github&style=flat)](https://github.com/karma9874/AndroRAT/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/karma9874/AndroRAT?style=flat&logo=github)](https://github.com/karma9874/AndroRAT/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/karma9874/AndroRAT?style=flat&color=critical&logo=github)](https://github.com/karma9874/AndroRAT/pulls?q=is%3Apr+is%3Aclosed)  |
@@ -18,7 +18,7 @@
 
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
 
-**Reach me at **
+**Reach me at**
 <p align="center">
 <a href="mailto:nirajssingh18@gmail.com@gmail.com"><img src="https://github.com/karma9874/karma9874/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/karma9874"><img src="https://github.com/karma9874/karma9874/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
