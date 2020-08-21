@@ -11,7 +11,7 @@
 - :tea: Chai is <3
 - :ok: Index starts with 1? xD 
 
-<br><br><br><br><br>
+<br><br>
 
 **Some of my boring stuffs**
 
