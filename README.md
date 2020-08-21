@@ -8,7 +8,9 @@
 - :heart_eyes: I love playing CTFs, currently playing under team @darkArmy-ctf
 - :zzz: Sometimes I write CTFs [writeups](https://github.com/karma9874/CTF-Writeups)
 <br><br><br>
+
 **Some of my boring stuffs**
+
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**AndroRAT**](https://github.com/karma9874/AndroRAT) | [![GitHub issues](https://img.shields.io/github/issues/karma9874/AndroRAT?color=green&logo=github&style=flat)](https://github.com/karma9874/AndroRAT/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/karma9874/AndroRAT?style=flat&logo=github)](https://github.com/karma9874/AndroRAT/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/karma9874/AndroRAT?style=flat&color=critical&logo=github)](https://github.com/karma9874/AndroRAT/pulls?q=is%3Apr+is%3Aclosed)  |
