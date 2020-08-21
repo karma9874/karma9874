@@ -1,13 +1,13 @@
 ## **Hi 👋, I'm Niraj!**  
 <p> Wannabe haxor... </p>
 
-<img align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
+<img style="margin-left:5px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
 
 - :grey_question: Checking how this thing README.md works.
 - :exclamation: I write codes.
 - :heart_eyes: I love playing CTFs, currently playing under team @darkArmy-ctf
 - :zzz: Sometimes I write CTFs [writeups](https://github.com/karma9874/CTF-Writeups)
-<br><br><br>
+<br><br><br><br><br>
 
 **Some of my boring stuffs**
 
@@ -21,6 +21,7 @@
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
 
 **Reach me at**
+
 <p align="center">
 <a href="mailto:nirajssingh18@gmail.com@gmail.com"><img src="https://github.com/karma9874/karma9874/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/karma9874"><img src="https://github.com/karma9874/karma9874/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
