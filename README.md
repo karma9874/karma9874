@@ -4,7 +4,7 @@
 
 - :grey_question: Checking how this thing README.md works.
 - :exclamation: I write codes.
-- :heart_eyes: I love playing CTFs, currently playing under team @darkArmy-ctf
+- :heart_eyes: I love playing CTFs, currently playing under team [DarkArmy](https://github.com/DarkArmy-ctf)
 - :zzz: Sometimes I write CTFs [writeups](https://github.com/karma9874/CTF-Writeups)
 - :smiley: Interested in Cyber Security, Android developement and Machine Learning 
 - :+1: Looking to collaborate on any weird ideas xD
@@ -20,6 +20,7 @@
 | [**CTF-CryptoTool**](https://github.com/karma9874/CTF-CryptoTool) | [![GitHub issues](https://img.shields.io/github/issues/karma9874/CTF-CryptoTool?color=green&logo=github&style=flat)](https://github.com/karma9874/CTF-CryptoTool/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/karma9874/CTF-CryptoTool?style=flat&logo=github)](https://github.com/karma9874/CTF-CryptoTool/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/karma9874/CTF-CryptoTool?style=flat&color=critical&logo=github)](https://github.com/karma9874/CTF-CryptoTool/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <br>
+
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
 
 **Reach me at**
