@@ -11,8 +11,6 @@
 - :tea: Chai is <3
 - :ok: Index starts with 1? xD 
 
-<br><br>
-
 **Some of my boring stuffs**
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
