@@ -1,7 +1,7 @@
 ## **Hi 👋, I'm Niraj!**  
 <p> Wannabe haxor... </p>
 
-<img style="margin-left:20px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
+<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/karma9874/karma9874/blob/master/assets/congapartyparrot.gif?raw=1" width="200vw" />
 
 - :grey_question: Checking how this thing README.md works.
 - :exclamation: I write codes.
