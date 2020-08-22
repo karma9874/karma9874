@@ -19,10 +19,8 @@
 | [**Seq2Seq-Chatbot**](https://github.com/karma9874/Seq2Seq-Chatbot) | [![GitHub issues](https://img.shields.io/github/issues/karma9874/Seq2Seq-Chatbot?color=green&logo=github&style=flat)](https://github.com/karma9874/Seq2Seq-Chatbot/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/karma9874/Seq2Seq-Chatbot?style=flat&logo=github)](https://github.com/karma9874/Seq2Seq-Chatbot/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/karma9874/Seq2Seq-Chatbot?style=flat&color=critical&logo=github)](https://github.com/karma9874/Seq2Seq-Chatbot/pulls?q=is%3Apr+is%3Aclosed)   |
 | [**CTF-CryptoTool**](https://github.com/karma9874/CTF-CryptoTool) | [![GitHub issues](https://img.shields.io/github/issues/karma9874/CTF-CryptoTool?color=green&logo=github&style=flat)](https://github.com/karma9874/CTF-CryptoTool/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/karma9874/CTF-CryptoTool?style=flat&logo=github)](https://github.com/karma9874/CTF-CryptoTool/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/karma9874/CTF-CryptoTool?style=flat&color=critical&logo=github)](https://github.com/karma9874/CTF-CryptoTool/pulls?q=is%3Apr+is%3Aclosed)   |
 
-<br>
-<p align="center">
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
-</p>
+
 
 **Reach me at**
 
