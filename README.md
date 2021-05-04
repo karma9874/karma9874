@@ -10,7 +10,7 @@
 - :+1: Looking to collaborate on any weird ideas xD
 - :tea: Chai is <3
 - :ok: Index starts with 1? xD 
-- :eyes: ![](https://komarev.com/ghpvc/?username=your-github-username)
+- :eyes: ![](https://komarev.com/ghpvc/?username=karma9874)
 
 **Some of my boring stuffs**
 
