@@ -29,8 +29,7 @@
 <a href="mailto:nirajssingh18@gmail.com@gmail.com"><img src="https://github.com/karma9874/karma9874/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/karma9874"><img src="https://github.com/karma9874/karma9874/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/karma9874/"><img src="https://github.com/karma9874/karma9874/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://github.com/karma9874"><img src="https://github.com/karma9874/karma9874/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://github.com/karma9874"><img src="https://github.com/karma9874/karma9874/blob/master/assets/home.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://discord.com/users/karma#8364"><img src="https://github.com/karma9874/karma9874/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://ctftime.org/user/69613"><img src="https://github.com/karma9874/karma9874/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
-<a href="https://karma9874.github.io"><img src="https://github.com/karma9874/karma9874/blob/master/assets/home.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
